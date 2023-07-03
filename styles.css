@@ -1,0 +1,36 @@
+.bg-container{
+    height: 100%;
+    font-family: Arial,sans-serif;
+}
+
+.top-container{
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+}
+.dots-img{
+    display: flex;
+}
+.dots-menu{
+    width: 16px;
+}
+
+.links{
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    color: rgba(0,0,0,.87);
+    text-decoration: none;
+}
+.sign-in{
+    background-color: #1a73e8;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .25px;
+    padding: 9px 23px;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
