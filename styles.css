@@ -41,7 +41,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height:75vh;
 }
 
 .google-container{
@@ -159,4 +159,5 @@ body{
 .footer-container{
     display: flex;
     justify-content: space-between;
+    padding: 0px 20px
 }
